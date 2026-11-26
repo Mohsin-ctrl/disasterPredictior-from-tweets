@@ -93,8 +93,6 @@ with st.sidebar:
     st.subheader("Good to know")
     st.markdown(
         "- Trained on about 5,500 labelled tweets (Kaggle *NLP with Disaster Tweets*).\n"
-        "- Jokes and metaphors (*\"this album is fire\"*) can still fool it.\n"
-        "- It is a student project, **not** an official alert system."
     )
     st.caption("AIC354 – Machine Learning Fundamentals · COMSATS University Islamabad, Lahore Campus")
 
